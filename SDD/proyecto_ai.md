@@ -32,6 +32,13 @@ Red principal que se va a llamar "red-ai" a la que van a pertenecer todos los co
 | Servicio | Nombre de contenedor | URL |
 | :--- | :--- | :--- |
 | **Ollama** | ollama | http://ollama:11434 |
+| **Open WebUI** | openwebui | http://openwebui:8080 |
+| **Hermes Agent** | hermes-agent | http://hermesagent:8000 |
+| **OpenCode** | opencode | http://opencode:8443 |
+| **ComfyUI** | comfyui | http://comfyui:8188 | 
+| **YOLO** | yolo | http://yolo:5000 |
+| **SearXNG** | searxng | http://searxng:8080 | 
+| **RAG** | rag | ***Integrado con otros servicios*** | 
 
 ### 3.1 Redes Docker
 
